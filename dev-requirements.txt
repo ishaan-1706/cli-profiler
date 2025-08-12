@@ -1,0 +1,5 @@
+pytest==8.4.1             # test runner
+flake8==6.0.0             # linting
+mypy==1.8.0               # static type checking
+black==23.9.1             # code formatting
+pre-commit==3.3.0         # git hooks

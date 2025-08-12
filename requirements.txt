@@ -1,0 +1,11 @@
+# Built-in modules (no pip install needed)
+cProfile          # Python built-in
+tracemalloc       # Python built-in
+
+# Optional profiling extras
+line_profiler==3.6.0      # per-line CPU stats
+memory_profiler==0.64.0   # function-level memory stats
+
+# Runtime deps
+psutil==5.9.5             # CPU% measurement
+rich==13.5.2              # colored tables & console formatting
